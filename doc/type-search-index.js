@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes","url":"allclasses-index.html"},{"p":"src","l":"Grade"},{"p":"src","l":"Level"},{"p":"src","l":"Module"},{"p":"src","l":"ModuleType"},{"p":"src","l":"ModuleTypeRequirement"},{"p":"src","l":"Requirement"},{"p":"src","l":"Result"},{"p":"src","l":"Student"},{"p":"src","l":"StudentEvaluation"},{"p":"src","l":"TechnicalSchool"}]
