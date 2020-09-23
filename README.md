@@ -1,4 +1,4 @@
-# COMP503 Assignment One
+# Student Evaluation Analyser
 #### This was the first assignment for the Auckland University of Technology's COMP503 class, Programming 2, in Semester 2 of 2020.  
 
 This application was created to determine the certification of a student, based on their provided transcript. The
